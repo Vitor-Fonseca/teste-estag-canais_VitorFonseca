@@ -2,7 +2,7 @@
 
 Desafio feito por: Vitor Hugo Marin Fonseca
 
-Feito e testado em uma maquina linux
+Feito e testado em uma maquina linux Ubuntu 20
 
 Linguagem escolhida: java versão 16.0.1
 
